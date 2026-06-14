@@ -3,7 +3,7 @@
     <td width="30%" align="center">
       <img src="https://i.pinimg.com/1200x/45/bf/80/45bf800aeaa845726af0364d7a731a70.jpg" width="350px" alt="Avatar"/>
     </td>
-    <td width="20%" valign="top">
+    <td width="70%" valign="top">
       <h3>Domingsss
       <hr />
       <p><b>OS:</b> Windows 11</p>
