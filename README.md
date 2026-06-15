@@ -24,6 +24,17 @@ Hobbies: Music, Gaming
 </p>
 
 ------
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=domingsss&show_icons=true&theme=dark" width="550px" alt="GitHub Stats">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=domingsss&show_icons=true&theme=dark" width="541px" alt="GitHub Stats">
 </div>
+
+<div align="right">
+  <img 
+    src="https://i.pinimg.com/736x/00/cb/f5/00cbf59df8aa468f354c9a8abf4475dd.jpg" 
+    width="241px" 
+    style="margin-top: -330px;" 
+    alt="Sua Imagem"
+  >
+</div>
+
+-------------------
