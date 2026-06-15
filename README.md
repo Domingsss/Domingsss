@@ -18,7 +18,8 @@ Learning: Node.js, Express, PostgreSQL,
 Hobbies: Music, Gaming
 ```
 ------------------------
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white=https://www.instagram.com/domingsss/)  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/domingsss/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/domingsss/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domingsss/)
 
 ------------------------
 <div style="display: inline_block"><br/>
