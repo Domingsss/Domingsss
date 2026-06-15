@@ -24,17 +24,15 @@ Hobbies: Music, Gaming
 </p>
 
 ------
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=domingsss&show_icons=true&theme=dark" width="541px" alt="GitHub Stats">
-</div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="middle" width="65%">
+      <img src="https://github-readme-stats.vercel.app/api?username=domingsss&show_icons=true&theme=dark" width="651px" alt="GitHub Stats">
+    </td>
+<td align="right" valign="middle" width="40%">
+      <img src="https://i.pinimg.com/736x/00/cb/f5/00cbf59df8aa468f354c9a8abf4475dd.jpg" width="251px" alt="Minha Imagem">
+    </td>
+  </tr>
+</table>
 
-<div align="right">
-  <img 
-    src="https://i.pinimg.com/736x/00/cb/f5/00cbf59df8aa468f354c9a8abf4475dd.jpg" 
-    width="241px" 
-    style="margin-top: -330px;" 
-    alt="Sua Imagem"
-  >
-</div>
-
--------------------
+------------
