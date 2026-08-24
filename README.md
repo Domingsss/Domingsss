@@ -9,10 +9,10 @@
 </div>
 
 ---
-<strong><h2><center>🤝 Conecte-se comigo</h2></strong>
+<h2 align="center">🤝 Conecte-se comigo</h2>
 
 <p align="center">
-  <center><a href="https://www.linkedin.com/in/domingsss/" target="_blank">
+  <a href="https://www.linkedin.com/in/domingsss/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:domingsss.dev@gmail.com">
@@ -23,13 +23,13 @@
   </a>
 </p>
 
-## 🛠️ Tecnologias e ferramentas
+<h2 align="center">🛠️ Tecnologias e ferramentas</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode&perline=10" alt="Tecnologias e ferramentas" />
 </div>
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 <div align="center">
@@ -40,13 +40,13 @@
   <img src="https://streak-stats.demolab.com?user=domingsss&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </div>
 
-## 📈 Gráfico de contribuições
+<h2 align="center">📈 Gráfico de contribuições</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=domingsss&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Gráfico de atividade" />
 </div>
 
-## 💬 Frase para devs
+<h2 align="center">💬 Frase para devs</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase aleatória sobre desenvolvimento" />
