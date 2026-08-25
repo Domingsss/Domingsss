@@ -40,12 +40,6 @@
   <img src="https://streak-stats.demolab.com?user=domingsss&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </div>
 
-<h2 align="center">📈 Gráfico de contribuições</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=domingsss&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Gráfico de atividade" />
-</div>
-
 <h2 align="center">💬 Frase para devs</h2>
 
 <div align="center">
