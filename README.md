@@ -2,8 +2,6 @@
 
 # Olá, eu sou o João Eduardo! 👋
 
-### Desenvolvedor apaixonado por tecnologia e por transformar ideias em código.
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Bem-vindo+ao+meu+perfil!;Sempre+aprendendo+algo+novo;Construindo+projetos+com+prop%C3%B3sito" alt="Apresentação animada" />
 
 </div>
