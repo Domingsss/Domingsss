@@ -23,9 +23,54 @@
 
 <h2 align="center">🛠️ Tecnologias e ferramentas</h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode&perline=10" alt="Tecnologias e ferramentas" />
-</div>
+<h3 align="center">💻 Linguagens</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cs,c&perline=6" alt="Java, JavaScript, TypeScript, Python, C# e C" />
+</p>
+
+<h3 align="center">⚙️ Back-end</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs&perline=3" alt="Spring Boot, .NET e Node.js" />
+</p>
+
+<h3 align="center">🎨 Front-end</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css&perline=3" alt="React, HTML e CSS" />
+</p>
+
+<h3 align="center">🗄️ Bancos de dados</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge" alt="Microsoft SQL Server" />
+</p>
+
+<h3 align="center">🏢 ERP e integrações</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AdvPL-005CA9?style=for-the-badge" alt="AdvPL" />
+  <img src="https://img.shields.io/badge/TLPP-00A9CE?style=for-the-badge" alt="TLPP" />
+  <img src="https://img.shields.io/badge/TOTVS_Protheus-003B70?style=for-the-badge" alt="TOTVS Protheus" />
+  <img src="https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/VTEX-ED125F?style=for-the-badge" alt="VTEX" />
+  <img src="https://img.shields.io/badge/ANYMARKET-FF6900?style=for-the-badge" alt="ANYMARKET" />
+</p>
+
+<h3 align="center">☁️ Cloud</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp&perline=2" alt="AWS e Google Cloud" />
+</p>
+
+<h3 align="center">🔧 Ferramentas</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" alt="Git, GitHub, Postman e Visual Studio Code" />
+</p>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
